@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.envrc
+
+# Python (universal — no Python code expected, but harmless to catch strays)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Planning / AI artifacts (local working state, not part of the design)
+.claude/
+
+# .planning/
+# notes/
+/docs/
+
+/graphify-out/
+
+/_skill_staging/
+Semantic Model и Building Blocks
